@@ -1,0 +1,45 @@
+{
+	"list":[
+		{
+			"src":"./data/img/classifyimg/computer1.jpg",
+			"text":"灵耀Deluxe14钛金版(Windows 10 Home/i5-8265U/8GB/512G SSD/GeForce® MX150)-蓝色 ",
+			"price":"￥7999"
+		},
+		{
+			"src":"./data/img/classifyimg/computer2.jpg",
+			"text":"灵耀Deluxe14 14.0英寸 92%全面屏 轻薄笔记本电脑(Windows 10 Home/ i7-8565U/8GB/512G SSD/GeForce® MX150)-尊爵蓝  ",
+			"price":"￥7799"
+		},
+		{
+			"src":"./data/img/classifyimg/computer3.jpg",
+			"text":"灵耀Deluxe14 14.0英寸 92%全面屏 轻薄笔记本电脑(Windows 10 Home/ i7-8565U/8GB/512G SSD/GeForce® MX150)-尊爵蓝  ",
+			"price":"￥6599"
+		},
+		{
+			"src":"./data/img/classifyimg/computer4.jpg",
+			"text":"灵耀Deluxe14 14.0英寸 92%全面屏 轻薄笔记本电脑(Windows 10 Home/ i7-8565U/8GB/512G SSD/GeForce® MX150)-尊爵蓝  ",
+			"price":"￥5899"
+		},
+		{
+			"src":"./data/img/classifyimg/computer5.jpg",
+			"text":"灵耀Deluxe14 14.0英寸 92%全面屏 轻薄笔记本电脑(Windows 10 Home/ i7-8565U/8GB/512G SSD/GeForce® MX150)-尊爵蓝  ",
+			"price":"￥6999"
+		},
+		{
+			"src":"./data/img/classifyimg/computer6.jpg",
+			"text":"灵耀Deluxe14 14.0英寸 92%全面屏 轻薄笔记本电脑(Windows 10 Home/ i7-8565U/8GB/512G SSD/GeForce® MX150)-尊爵蓝  ",
+			"price":"￥8999"
+		},
+		{
+			"src":"./data/img/classifyimg/computer7.jpg",
+			"text":"灵耀Deluxe14 14.0英寸 92%全面屏 轻薄笔记本电脑(Windows 10 Home/ i7-8565U/8GB/512G SSD/GeForce® MX150)-尊爵蓝  ",
+			"price":"￥7799"
+		},
+		{
+			"src":"./data/img/classifyimg/computer8.jpg",
+			"text":"灵耀Deluxe14 14.0英寸 92%全面屏 轻薄笔记本电脑(Windows 10 Home/ i7-8565U/8GB/512G SSD/GeForce® MX150)-尊爵蓝  ",
+			"price":"￥6699"
+		}
+		
+	]
+}

@@ -1,0 +1,309 @@
+{
+	"swipe":["./data/img/indeximg/swipe1.jpg",
+			"./data/img/indeximg/swipe2.jpg",
+			"./data/img/indeximg/swipe3.jpg",
+			"./data/img/indeximg/swipe4.jpg",
+			"./data/img/indeximg/swipe5.jpg",
+			"./data/img/indeximg/swipe6.jpg",
+			"./data/img/indeximg/swipe7.jpg",
+			"./data/img/indeximg/swipe8.jpg"
+	],
+	"nav":[
+		{
+			"src1":"./data/img/indeximg/nav1.png",
+			"con":"限时特惠",
+			"adress":"/store"
+		},
+		{
+			"src1":"./data/img/indeximg/nav3.png",
+			"con":"新机租赁",
+			"adress":"/newcomputer"
+		},
+		{
+			"src1":"./data/img/indeximg/nav2.png",
+			"con":"以旧换新",
+			"adress":""
+		},
+		{
+			"src1":"./data/img/indeximg/nav7.png",
+			"con":"皇家特工",
+			"adress":"/error"
+		},
+		{
+			"src1":"./data/img/indeximg/nav4.png",
+			"con":"ROG专区",
+			"adress":"/list"
+		},
+		{
+			"src1":"./data/img/indeximg/nav6.png",
+			"con":"无忧服务",
+			"adress":"/service"
+		},
+		{
+			"src1":"./data/img/indeximg/nav5.png",
+			"con":"华硕官网",
+			"adress":""
+		},
+		{
+			"src1":"./data/img/indeximg/nav8.png",
+			"con":"在线咨询",
+			"adress":"/service"
+		}
+	],
+	"module":[
+		{
+			"bimgsrc":"./data/img/indeximg/adolgoods1.jpg",
+			"title":"adol （a豆）笔记本13",
+			"des":"13.3英寸   全面屏 ",
+			"newprice":"￥4699",
+			"oldprice":"￥5100"
+		},
+		{
+			"bimgsrc":"./data/img/indeximg/diygoods2.jpg",
+			"title":"【新品】AMD旗舰款Radeon RX 5700 XT 7nm RDNA架构 8G GDDR6 游戏显卡",
+			"des":"Radeon RX 5700 XT RDNA架构",
+			"newprice":"￥3299",
+			"oldprice":"￥3999"
+		},
+		{
+			"bimgsrc":"./data/img/indeximg/gamegoods6.jpg",
+			"simgsrc":"./data/img/indeximg/limit.png",
+			"title":"飞行堡垒6  金属电竞版",
+			"des":"超窄边框   八代标压",
+			"newprice":"￥5999",
+			"oldprice":"￥7800"
+		},
+		{
+			"bimgsrc":"./data/img/indeximg/diygoods4.jpg",
+			"title":"ROG XG438巨幕显示器",
+			"des":"120Hz FreeSync2 HDR巨幕 ",
+			"newprice":"￥8999",
+			"oldprice":"￥9999"
+		}
+	],
+	"contact":[
+		{
+			"csrc":"./data/img/indeximg/contact1.png",
+			"ptext":"华硕获《Laptop Magazine》评选年度最佳笔电品牌全球第二、「创新」居冠"
+		},
+		{
+			"csrc":"./data/img/indeximg/contact2.png",
+			"ptext":"ROG枪神3，把BMW装进游戏本里？"
+		},
+		{
+			"csrc":"./data/img/indeximg/contact3.jpg",
+			"ptext":"3招解决系统卡顿"
+		},
+		{
+			"csrc":"./data/img/indeximg/contact4.png",
+			"ptext":"24小时长效影音续航 adol笔记本14评测"
+		}
+	],
+	
+	"game":[
+		{
+			"title":"游戏本专区",
+			"src":"./data/img/indeximg/game.jpg",
+			"gamelist":[
+				{
+					"bimgsrc":"./data/img/indeximg/gamegoods1.jpg",
+					"simgsrc":"./data/img/indeximg/limit.png",
+					"title":"飞行堡垒7 9代i7",
+					"des":"9代i7-9750H/GTX1650 4G显卡",
+					"newprice":"￥6799",
+					"oldprice":"￥7000"
+				},
+				{
+					"bimgsrc":"./data/img/indeximg/gamegoods2.jpg",
+					"simgsrc":"./data/img/indeximg/limit.png",
+					"title":"飞行堡垒6  金属电竞版",
+					"des":"八代标压 窄边框 512G 大容量固态硬盘",
+					"newprice":"￥6999",
+					"oldprice":"￥8400"
+				},
+				{
+					"bimgsrc":"./data/img/indeximg/gamegoods3.jpg",
+					"simgsrc":"./data/img/indeximg/limit.png",
+					"title":"顽石畅玩版FL8700FJ",
+					"des":"八代i7处理器 高清大屏",
+					"newprice":"￥5099",
+					"oldprice":"￥5200"
+				},
+				{
+					"bimgsrc":"./data/img/indeximg/gamegoods4.jpg",
+					"simgsrc":"./data/img/indeximg/limit.png",
+					"title":"飞行堡垒7 9代i7",
+					"des":"9代i7-9750H/GTX1650 4G显卡",
+					"newprice":"￥6799",
+					"oldprice":"￥7000"
+				},
+				{
+					"bimgsrc":"./data/img/indeximg/gamegoods5.jpg",
+					"simgsrc":"./data/img/indeximg/limit.png",
+					"title":"飞行堡垒6 plus",
+					"des":"17.3英寸   144Hz IPS屏",
+					"newprice":"￥7699",
+					"oldprice":"￥10100"
+				},
+				{
+					"bimgsrc":"./data/img/indeximg/gamegoods6.jpg",
+					"simgsrc":"./data/img/indeximg/limit.png",
+					"title":"飞行堡垒6  金属电竞版",
+					"des":"超窄边框   八代标压",
+					"newprice":"￥5999",
+					"oldprice":"￥7800"
+				},
+				{
+					"bimgsrc":"./data/img/indeximg/gamegoods2.jpg",
+					"simgsrc":"./data/img/indeximg/limit.png",
+					"title":"AMD新一代标压 512G 大容量固态硬盘",
+					"des":"AMD新一代标压 512G 大容量固态硬盘",
+					"newprice":"￥5399",
+					"oldprice":"￥6000"
+				}
+			]
+		},
+		{
+			"title":"轻薄笔记本专区",
+			"src":"./data/img/indeximg/adol.jpg",
+			"gamelist":[
+				{
+					"bimgsrc":"./data/img/indeximg/adolgoods1.jpg",
+					"title":"adol （a豆）笔记本13",
+					"des":"13.3英寸   全面屏 ",
+					"newprice":"￥4699",
+					"oldprice":"￥5100"
+				},
+				{
+					"bimgsrc":"./data/img/indeximg/adolgoods2.jpg",
+					"title":"ATRONE",
+					"des":"数字键盘，四面窄边框，95%屏占比",
+					"newprice":"￥14999",
+					"oldprice":"￥15999"
+				},
+				{
+					"bimgsrc":"./data/img/indeximg/adolgoods3.jpg",
+					"title":"adol （a豆）笔记本14",
+					"des":"14  桃浦粉   全面屏",
+					"newprice":"￥4999",
+					"oldprice":"￥5200"
+				},
+				{
+					"bimgsrc":"./data/img/indeximg/adolgoods4.jpg",
+					"title":"PX554FB",
+					"des":"i5-8265U   专属指纹识别",
+					"newprice":"￥4499",
+					"oldprice":"￥5200"
+				},
+				{
+					"bimgsrc":"./data/img/indeximg/adolgoods5.jpg",
+					"title":"灵耀S 2代 14英寸",
+					"des":"三面窄边框    轻薄炫彩",
+					"newprice":"￥4899",
+					"oldprice":"￥5700"
+				},
+				{
+					"bimgsrc":"./data/img/indeximg/adolgoods6.jpg",
+					"title":"灵耀Deluxe13",
+					"des":"92%全面屏   A4纸大小",
+					"newprice":"￥6399",
+					"oldprice":"￥7199"
+				},
+				{
+					"bimgsrc":"./data/img/indeximg/adolgoods7.jpg",
+					"title":"灵耀U4100UN",
+					"des":"超窄边框   72%高色域",
+					"newprice":"￥6799",
+					"oldprice":"￥7599"
+				}
+			]
+		},
+		{
+			"title":"DIY硬件专区",
+			"src":"./data/img/indeximg/diy.jpg",
+			"gamelist":[
+				{
+					"bimgsrc":"./data/img/indeximg/diygoods1.jpg",
+					"title":"ROG RTX2080TI-O11G",
+					"des":"RW战队指定显卡,旗舰信仰高端！ ",
+					"newprice":"￥12999",
+					"oldprice":"￥13900"
+				},
+				{
+					"bimgsrc":"./data/img/indeximg/diygoods1.jpg",
+					"simgsrc":"./data/img/indeximg/limit.png",
+					"title":"飞行堡垒7 9代i7",
+					"des":"9代i7-9750H/GTX1650 4G显卡",
+					"newprice":"￥6799",
+					"oldprice":"￥9700"
+				},
+				{
+					"bimgsrc":"./data/img/indeximg/diygoods3.jpg",
+					"title":"PG279Q电竞显示器",
+					"des":"27寸165HZ G-Sync",
+					"newprice":"￥4599",
+					"oldprice":"￥5700"
+				},
+				{
+					"bimgsrc":"./data/img/indeximg/diygoods4.jpg",
+					"title":"ROG XG438巨幕显示器",
+					"des":"120Hz FreeSync2 HDR ",
+					"newprice":"￥8999",
+					"oldprice":"￥9999"
+				},
+				{
+					"bimgsrc":"./data/img/indeximg/diygoods5.jpg",
+					"title":"RT-AC86U",
+					"des":"双频全千兆 AiMesh ",
+					"newprice":"￥999",
+					"oldprice":"￥1099"
+				},
+				{
+					"bimgsrc":"./data/img/indeximg/diygoods6.jpg",
+					"title":"猛禽STRIX 7.1电竞耳麦",
+					"des":"两种LED发光模式 / 7.1声道真实环绕",
+					"newprice":"￥799",
+					"oldprice":"￥1399"
+				},
+				{
+					"bimgsrc":"./data/img/indeximg/diygoods7.jpg",
+					"title":"ROG X570-E(WIFI)",
+					"des":"新品主板 震撼发售",
+					"newprice":"￥2599",
+					"oldprice":"￥2999"
+				}
+			]
+		}
+	],
+	"shop":[
+		{
+			"src":"./data/img/indeximg/gamegoods1.jpg",
+			"text":"飞行堡垒7 九代英特尔酷睿i7 15.6英寸游戏笔记本电脑 - 金属电竞",
+			"price":"6799",
+			"limit":"[限时优惠]",
+			"txt":"赠品",
+			"txt1":"华硕外滩公文包/笔记本包/电脑包/黑/420D涤纶选择尺寸:16英寸 ￥169 x1",
+			"txt2":"有线鼠标AE-01 赠品颜色随机商品颜色:黑色 ￥99 x1"
+		},
+		{
+			"src":"./data/img/indeximg/gamegoods2.jpg",
+			"text":"灵耀X2(Windows 10 Home/ i7-8565U/16GB内存/512GB SSD/GeForce® MX150)-冰河蓝",
+			"price":"14999",
+			"limit":"",
+			"txt":"",
+			"txt1":"",
+			"txt2":""
+		},
+		{
+			"src":"./data/img/indeximg/gamegoods3.jpg",
+			"text":"ROG 枪神3 Plus 17.3英寸144Hz 电竞游戏笔记本电脑",
+			"price":"16999",
+			"limit":"[限时优惠]",
+			"txt":"赠品",
+			"txt1":"  ROG Ranger BP2500 电竞背包   ",
+			"txt2":"有线鼠标AE-01 商品颜色:黑色 ￥99 x1"
+		}
+	]
+	
+	
+}

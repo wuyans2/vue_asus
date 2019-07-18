@@ -1,0 +1,53 @@
+{
+	"store":["./data/img/othersimg/store1.jpg",
+			"./data/img/othersimg/store2.jpg",
+			"./data/img/othersimg/store3.jpg",
+			"./data/img/othersimg/store4.jpg",
+			"./data/img/othersimg/store5.jpg",
+			"./data/img/othersimg/store6.jpg",
+			"./data/img/othersimg/store7.jpg",
+			"./data/img/othersimg/store8.jpg",
+			"./data/img/othersimg/store9.jpg"
+	],
+	"st":[
+		{
+			"stxt":"ROG枪神3加入了汽车“车钥匙”的设计理念 ——钥石，虽然没有钥石一样可以开启枪神3，但属于使用者的个性设置和私人硬盘区唯有使用钥石才可开启，私密、个性都由它来守护！",
+			"src":"./data/img/othersimg/news1.png"
+		},
+		{
+			"stxt":"用途一：当你的Keystone在Armoury Crate认证后，插入Keystone时，在 “我的电脑” 会出现另外一个磁盘。该磁盘里的文件在没有插入Keystone时是默认隐藏起来的。",
+			"src":"./data/img/othersimg/news2.png"
+		},
+		{
+			"stxt":"用途二：可以在Armoury Crate里设置，当插入Keystone后，打开设置的关联应用程序，电脑会自动切换到你所设置的状态。如RGB灯效，音效，游戏配置，性能模式等。",
+			"src":"./data/img/othersimg/news1.png"
+		}
+	],
+	"tt":[
+		{
+			"tit":"240Hz 3ms 原生电竞屏",
+			"intr":"ROG 枪神3最引以为傲的新装备自然是240Hz刷新率的赛级电竞屏，想要飙车，你需要极其敏锐的双眼才能看清道路，而在游戏里，ROG为你赋予超乎寻常的视觉，240Hz刷新率远超电竞标配144Hz，更是常规刷新率的4倍，画质流畅程度再进一步，拥有比对手快几步的优势！",
+			"src":"./data/img/othersimg/news4.png"
+		},
+		{
+			"tit":"3D仿生进气格栅 + 冰川2.00",
+			"intr":"枪神3采用3D仿生进气格栅，从源头提升风力；同时枪神3也对ROG冰川散热架构进行了更新升级，配合多铜管，双绝尘风扇，快速排出热量，保护机体，保证双手舒适，更有暴风增压模式自适应各类场景，全局掌控散热效率与功率。",
+			"src":"./data/img/othersimg/news5.png"
+		},
+		{
+			"tit":"U型幽浮底盘氛围灯",
+			"intr":"一道新的环绕光带照亮了机器底盘的边缘，与ROG标志和背光键盘同步，个性化的颜色和效果，更沉浸式的享受。",
+			"src":"./data/img/othersimg/news6.png"
+		},
+		{
+			"tit":"“影刃”电竞键盘系统",
+			"intr":"作为FPS游戏利器，枪神3配置了ROG专门打造的“影刃”键盘操作系统，1.8mm长键程，0.25mm键腹曲线；2000万次按键寿命，同时支持单键RGB背光灯效设置。",
+			"src":"./data/img/othersimg/news7.png"
+		},
+		{
+			"tit":"RangeBoost黑科技",
+			"intr":"枪神3配备 2*2+2*2 四天线Wi-Fi ROG RangeBoost专有技术信号增强接收器，和全新的Intel®  802.11ac(2*2) Gigabit Wi-Fi，最高传输速度可达约1.7Gbps。",
+			"src":"./data/img/othersimg/news8.png"
+		}
+	]
+}
